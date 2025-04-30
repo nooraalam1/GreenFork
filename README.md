@@ -13,9 +13,9 @@ No more wasting time on setup — just clone and code! 🧑‍💻🔥
 
 # Process:
 
-git clone https://github.com/nooraalam1/Frontend-Setup.git
-cd Frontend-Setup
-npm i
+git clone https://github.com/nooraalam1/Frontend-Setup.git </br> </br>
+cd Frontend-Setup </br> </br>
+npm i </br></br>
 
 
 
